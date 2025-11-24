@@ -1,0 +1,31 @@
+{
+  "app": {
+    "header": {
+      "about_title": "Hello I'm Robert,",
+      "about_desc": "I have 1 year of experience as <span class='font-bold text-[#4cbae4]'>web developer</span> in Spain",
+      "contact_me": "Contact me"
+    },
+    "sidemenu": {
+      "home": "Home",
+      "experience": "Experience",
+      "projects": "Projects"
+    },
+    "experience": {
+      "title": "Professional Background",
+      "card": {
+        "title": "Frontend Developer",
+        "p1": "I've learned Angular 17 from scractch.",
+        "p2": "I was responsible for most of the frontend of the application",
+        "p3": "I have implemented custom calendars including their validations."
+      },
+      "note": "I am still learning and looking for new opportunities to keep growing in the programming world."
+    },
+    "projects": {
+      "title": "My projects",
+      "note": "Work in progress... I'll be adding more projects soon!"
+    },
+    "footer": {
+      "text": "Designed and developed by Robert Mosquera  © 2024."
+    }
+  }
+}
